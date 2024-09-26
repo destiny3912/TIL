@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "23a863df10f992a2",
+        "id": "5fe25c6afe1953f7",
         "type": "tabs",
         "children": [
           {
-            "id": "8269144db7e667aa",
+            "id": "c5f0ecad9dc3d968",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "알림 기능.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "알림 기능.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "알림 기능.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "알림 기능.md"
+              }
             }
           },
           {
@@ -147,8 +155,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8269144db7e667aa",
+  "active": "c5f0ecad9dc3d968",
   "lastOpenFiles": [
+    "알림 기능.md",
+    "PNT",
     "Language/Java/PriorityQueue에 대하여.md",
     "Language/Java/compareTo 사용법.md",
     "Language/Java",
