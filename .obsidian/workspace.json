@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "영속성과 객체와 관계형 패러다임의 불일치"
             }
+          },
+          {
+            "id": "9eb614b67228af57",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +186,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5053ba872963fe17",
+  "active": "9eb614b67228af57",
   "lastOpenFiles": [
     "Framework/Spring/Spring Data JPA/영속성과 객체와 관계형 패러다임의 불일치.md",
     "Framework/Spring/Spring Data JPA",
